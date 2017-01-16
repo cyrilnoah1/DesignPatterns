@@ -1,0 +1,3 @@
+The following list of demo projects for Design Patterns from 
+"Head First: Design Patterns" excludes Proxy Pattern and 
+Leftover Patterns due to inavalibility of required resources.
